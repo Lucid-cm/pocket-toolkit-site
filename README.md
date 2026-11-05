@@ -19,3 +19,4 @@ A collection of practical utilities designed to run on your own device.
 
 **Status:** Active development.
 
+![version: v1.0](https://statusbadge.onrender.com/badge/4JI3IZ-hMwdth_5uWgonjg.svg)
